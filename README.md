@@ -1,0 +1,13 @@
+This is the capstone project for TheOdinProject's Advanced HTML and CSS section of the Ruby on Rails path.
+
+I set out to create a personal portfolio website that I could be proud of and use in the future, and not settle for anything less.
+
+Initially, this project went through several iterations as I tried to find out how I best wanted to handle navigation and the content of the page, but eventually I happened across the Fullpage.js library, and instantly loved the styling behind it. I purchased a license and didn't look back.
+
+There are really two maint hings that I still would like to really hone my skills in:
+1 - General design abilities / creativity. Creating good looking websites is HARD! And it certainly doesn't help that while I'm creating it, I'm critiquing every last detail, meaning I see nothing but flaws. But I do know I still need to improve my design abilities if I want to become a very successful web developer. To create the design and layout of this project, I drew inspiration from several personal portfolios I found online, and also found a premade color palette to apply as I saw fit. Steal like an artist right? Hopefully soon I will be able to mock up my own beautiful designs, completely by myself.
+2 - CSS. The black magic of front end development. You can do so much, or so little with it. I'm still learning how to improve every day with CSS, hopefully to the point where one day I can be one of those cool people who make interesting codepen animations and interactive websites with strictly CSS. For now, I'm leaning heavily on Bootstrap, both because it makes life easier and because it's so widely used in the industry that I want to learn the fundamentals of it now, so I'm not behind later.
+
+Another thing I want to revisit this site with is better Javascript skills. I have a cursory knowledge of JS, but over the last several months I have spent all my time focusing on Ruby, Ruby on Rails, CSS, and HTML that my JS abilities have sort of fallen by the wayside. Coming back with fresh javascript skills and adding some more interactability is a definite goal of mine.
+
+But overall, I am very happy with how this website turned out. This is something that I can point to and be proud of, which is really what I wanted to do when I set out on this project. If you've gotten to this point of the readme, I really appreciate your time! Hopefully we can talk soon. My contact information is on my website :)
